@@ -11,6 +11,8 @@ for phone in matchnum:
 
 
 
+^w{3}\.[a-z]{10}\.com
+
 '''
 abc…	Letters
 123…	Digits
