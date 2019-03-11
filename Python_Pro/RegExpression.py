@@ -1,4 +1,6 @@
 # -*- coding: cp1252 -*-
+# serach the 10 digit number from the tuple.
+
 import re
 phonebook = ('9850984430','9960633284','98er98443O','99950')
  
